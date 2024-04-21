@@ -1,53 +1,23 @@
-## Hello There!
-#### Just a brazilian guy becoming a programmer for the 🌎.
-
-##### I’m currently learning ...
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />  
-</div>
-
-##### I'm interested in ...
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-</div>
+### Hello There! I'm Luiz Augusto 👋
+- 🏎️ Just a brazilian guy becoming a programmer for the 🌎.
+- 🌱 Learning Python, HTML, CSS and JavaScript.
+- 🏁 I am interested in learning emerging technologies such as Artificial Intelligence 🤖 and Cloud ☁️. 
 
 ##
+[![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=LUIZAUGUSTO1113&show_icons=true&theme=tokyonight )](https://github.com/LUIZAUGUSTO1113)
 
-##### Contact ...
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUIZAUGUSTO1113&layout=compact&theme=tokyonight )](https://github.com/LUIZAUGUSTO1113)
 
-<div>
-  <a href="https://www.linkedin.com/in/luiz-augusto-holanda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- <a href = "mailto:luizholanda.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/oluizholanda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCokQfEgeLNYZsZk7yXafh-A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/luizaugusto1113" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+## Technologies Used
 
+[<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50">](https://www.javascript.com/)
+[<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="50">](https://www.djangoproject.com/)
 
-##### Fan of ...
-</div>
-  <a href="https://www.formula1.com" target="_blank"><img src="https://img.shields.io/badge/F1-E10600.svg?style=for-the-badge&logo=F1&logoColor=white" target="_blank"></a>
-  <a href="https://www.xbox.com" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
-
-<!--
-##### I’m currently learning ...
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-##### I'm interested in ...
-![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br/>
-##### Fan of ...
-![image](https://img.shields.io/badge/F1-E10600.svg?style=for-the-badge&logo=F1&logoColor=white) 
-![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-
-
-
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
--->
+## Contact Info
+   [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](www.linkedin.com/in/luiz-augusto-holanda/)
+   [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="50"/>](mailto:luizholanda.dev@gmail.com)
+   [<img src="https://img.icons8.com/color/96/000000/instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/oluizholanda/)
