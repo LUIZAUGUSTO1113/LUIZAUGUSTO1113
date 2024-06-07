@@ -20,4 +20,4 @@
 ## Contact Info
    [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/luiz-augusto-holanda/)
    [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="50"/>](mailto:luizholanda.dev@gmail.com)
-   [<img src="https://img.icons8.com/color/96/000000/instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/oluizholanda/)
+   [<img src="https://img.icons8.com/color/96/000000/instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/1113tech/)
