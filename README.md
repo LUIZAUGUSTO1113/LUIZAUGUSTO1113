@@ -1,37 +1,19 @@
-### Hello There, I'm Luiz Augusto!
-<table style="width: 100%; border-collapse: collapse; margin: auto;">
-   <tr>
-      <td style="width: 70%; text-align: justify; vertical-align: top; padding-right: 20px;">
-         <p>
-            🏎️ I am a Software Engineering student and a member of Junior IT Consultancy at UniCesumar. Passionate about technology, I am determined to stand out in software development.
-         </p>
-         <p>
-            👨‍💻 Currently, I work as a Web Development Analyst at the liveSEO group, focusing on becoming a Full Stack developer using modern and widely adopted technologies.
-         </p>
-         <p>
-            🏁 My future goal is to specialize in Artificial Intelligence and Machine Learning applications.
-         </p>
-      </td>
-      <td style="width: 30%; text-align: center; vertical-align: top;">
-         <p>
-            <a href="https://www.linkedin.com/in/luiz-augusto-holanda/"><img src="https://github.com/user-attachments/assets/1c33671f-1819-49dd-b740-ad3174f362aa" alt="LinkedIn" width="50"></a>
-         </p>
-         <p>
-            <a href="mailto:luizholanda.dev@gmail.com"><img src="https://github.com/user-attachments/assets/f394fad9-dfec-43a6-899c-9fe19f3ccf74" alt="Gmail" width="50"></a>
-         </p>
-         <p>
-            <a href="https://www.instagram.com/oluizholanda/"><img src="https://github.com/user-attachments/assets/dbdc164d-6a22-49da-bd8a-a758ea0b6be1" alt="Instagram" width="50"></a>
-         </p>
-      </td>
-   </tr>
-</table>
+### Hello there! I'm Luiz Augusto 👋
+
+As a Software Engineering student, Full Stack Developer at the hub40 group, and President of UNIDEV, I leverage my passion for technology to build robust software solutions and lead innovative projects.
+
+My long-term career goal is to specialize in Artificial Intelligence and Machine Learning, a field I plan to delve into to create even more intelligent and scalable software solutions.
+
+You can reach me on <a href="https://www.linkedin.com/in/luiz-augusto-holanda">LinkedIn</a> or by <a href="mailto:luizholanda.dev@gmail.com">email</a>.
 
 ##
-<div align="center">
- <a href="https://code.visualstudio.com/"><img src="https://github.com/user-attachments/assets/f001be19-0b42-468f-a42e-512c3bad54db" alt="VsCode" width="50"></a>
-   <a href="https://git-scm.com/"><img src="https://github.com/user-attachments/assets/603beaef-8701-4c98-b397-088842d29c1f" alt="Git" width="50"></a>
-   <a href="https://github.com"><img src="https://github.com/user-attachments/assets/4d1880ba-5a92-4e23-8159-b383bdcf20e1" alt="GitHub" width="50"></a>
-   <a href="https://www.python.org/"><img src="https://github.com/user-attachments/assets/690b3a29-4828-43ca-aa6d-4c05b5629e19" alt="Python" width="50"></a>
-   <a href="https://www.djangoproject.com/"><img src="https://github.com/user-attachments/assets/8f6ecf02-5b35-4a9c-b443-b0d1689b2f8e" alt="Django" width="50"></a>
-   <a href="https://www.javascript.com/"><img src="https://github.com/user-attachments/assets/8ac2aed7-b743-408e-bc3c-fef3acd5ba45" alt="JavaScript" width="50"></a>
-</div>
+<img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/c3c12d29-65cd-4ba8-b60f-d038decb2840" />
+<img width="50" height="50" alt="github" src="https://github.com/user-attachments/assets/43474036-1864-4a52-933b-f9fba2cb65e5" />
+<img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/5b0d5f67-4bc0-4800-b85e-51eed2b4f5c5" />
+<img width="50" height="50" alt="js" src="https://github.com/user-attachments/assets/adf0d603-5f7a-4e9b-840c-7e07a875ef7e" />
+<img width="50" height="50" alt="ts" src="https://github.com/user-attachments/assets/208eaba5-40f4-45c4-937c-58767f5407d9" />
+<img width="50" height="50" alt="node" src="https://github.com/user-attachments/assets/3f20c9ea-354a-4781-bf42-2e49c3b4fe73" />
+<img width="50" height="50" alt="nest" src="https://github.com/user-attachments/assets/da3b543f-241a-4d78-9139-5638e50e9446" />
+<img width="50" height="50" alt="vue" src="https://github.com/user-attachments/assets/ff6ea056-6381-4d47-83af-9b141ba3e297" />
+<img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/74a17858-cab9-449e-874b-4e4c18351a07" />
+<img width="50" height="50" alt="prisma" src="https://github.com/user-attachments/assets/4229844c-1c15-420d-aef3-6a7e96782c16" />
