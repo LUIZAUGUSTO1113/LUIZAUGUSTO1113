@@ -7,13 +7,15 @@ My long-term career goal is to specialize in Artificial Intelligence and Machine
 You can reach me on <a href="https://www.linkedin.com/in/luiz-augusto-holanda">LinkedIn</a> or by <a href="mailto:luizholanda.dev@gmail.com">email</a>.
 
 ##
-<img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/c3c12d29-65cd-4ba8-b60f-d038decb2840" />
-<img width="50" height="50" alt="github" src="https://github.com/user-attachments/assets/43474036-1864-4a52-933b-f9fba2cb65e5" />
-<img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/5b0d5f67-4bc0-4800-b85e-51eed2b4f5c5" />
-<img width="50" height="50" alt="js" src="https://github.com/user-attachments/assets/adf0d603-5f7a-4e9b-840c-7e07a875ef7e" />
-<img width="50" height="50" alt="ts" src="https://github.com/user-attachments/assets/208eaba5-40f4-45c4-937c-58767f5407d9" />
-<img width="50" height="50" alt="node" src="https://github.com/user-attachments/assets/3f20c9ea-354a-4781-bf42-2e49c3b4fe73" />
-<img width="50" height="50" alt="nest" src="https://github.com/user-attachments/assets/da3b543f-241a-4d78-9139-5638e50e9446" />
-<img width="50" height="50" alt="vue" src="https://github.com/user-attachments/assets/ff6ea056-6381-4d47-83af-9b141ba3e297" />
-<img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/74a17858-cab9-449e-874b-4e4c18351a07" />
-<img width="50" height="50" alt="prisma" src="https://github.com/user-attachments/assets/4229844c-1c15-420d-aef3-6a7e96782c16" />
+<div align="center">
+<img width="50" alt="git" src="https://github.com/user-attachments/assets/3374c60c-a54a-4b2d-a19c-c9177eb6815f" />
+<img width="50" alt="github" src="https://github.com/user-attachments/assets/2e5a9926-d0a5-4966-ae74-bf704a08bcfe" />
+<img width="50" alt="python" src="https://github.com/user-attachments/assets/7ca0966f-168d-45fe-9a23-a6c0ad495e1c" />
+<img width="50" alt="js" src="https://github.com/user-attachments/assets/8dd40d4a-fa95-4bf5-bb32-53f1373204c9" />
+<img width="50" alt="ts" src="https://github.com/user-attachments/assets/0d4cf6e9-3229-40fe-a95d-898c3de668e6" />
+<img width="50" alt="node" src="https://github.com/user-attachments/assets/efab924f-ffec-4f85-9b88-3fbf8473db1f" />
+<img width="50" src="https://github.com/user-attachments/assets/dd7a1b22-b920-423f-8563-50f2795efe48" />
+<img width="50" alt="vue" src="https://github.com/user-attachments/assets/c59a3ee9-5ff5-4baf-9462-6d5bee2b1442" />
+<img width="50" alt="mysql" src="https://github.com/user-attachments/assets/112ecadc-66cd-4f35-b40b-dcfe31a6ffe9" />
+<img width="50" alt="prisma-orm" src="https://github.com/user-attachments/assets/07ab27f2-70de-4c29-8070-cd2609bca40d" />
+<div>
